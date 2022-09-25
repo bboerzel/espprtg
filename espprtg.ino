@@ -1,3 +1,22 @@
+/*
+ESPPRTG
+
+An PRTG Alarm light based on a WEMOS D1 Mini. 
+See project at https://blog.boerzel.de/de/blog/esp-prtg-alarm-leuchte
+Graps Alarms via the Paesler PRTG API and animates Neopixels.
+
+Source: https://github.com/bboerzel/espprtg
+
+Author: Benjamin Börzel 
+Twitter: @boerzel
+version: 0.1
+last change: 2022.09.21
+
+Changelog
+v0.1
+ Initial Script
+*/
+    
 // import needed libraries
 #include <ArduinoJson.h>
 #include <Arduino.h>
